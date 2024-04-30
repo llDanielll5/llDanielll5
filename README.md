@@ -7,7 +7,7 @@
 - 📫 Contate-me no email: danixmotaa7x@gmail.com
 - 📱 Whatsapp e telefone: +5561991711401
 - 😊 Pronomes: Ele/Dele
-- ⚡ Fun fact: ...
+- ⚡ Gosto de brincar de criar jogos, e estou iniciando com os ensinos do desenvolvimento de jogos em minhas redes social... Dê uma olhadinha lá.
 
   <div>
     <a href="https://github.com/llDanielll5" />
