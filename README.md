@@ -2,12 +2,9 @@
 
 ## Sou Daniel Mota!
 
-- 🔭 Atualmente Trabalho como Desenvolvedor Full Stack e possuo sólida experiência com NextJs, NodeJs, ReactJs, React Native, Expo, Firebase, Express, GraphQL, Docker, C#, Unity;
-- 🌱 Estou estudando e procurando melhorar meus conhecimentos no desenvolvimento .NET, ASP.NET, JUnit, Jest, Cypress, Angular Framework;
-- 📫 Contate-me no email: danixmotaa7x@gmail.com
-- 📱 Whatsapp e telefone: +5561991711401
-- 😊 Pronomes: Ele/Dele
-- ⚡ Gosto de brincar de criar jogos, e estou iniciando com os ensinos do desenvolvimento de jogos em minhas redes social... Dê uma olhadinha lá.
+<div>
+    <img height="100vw" src="" />
+  </div>
 
   <div>
     <a href="https://github.com/llDanielll5" />
