@@ -3,7 +3,7 @@
 ## Sou Daniel Mota!
 
 <div>
-    <img height="100vw" src="" />
+    <img height="100vw" src="/BANNER_PIXEL_ART.gif" />
   </div>
 
   <div>
