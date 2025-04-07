@@ -2,6 +2,8 @@
 
 ## Sou Daniel Mota!
 
+### Amo programar e adoro poder aprender sempre novas tecnologias! Gosto de desafios e de criar soluções inovadoras para o nosso dia a dia.
+
 <div>
     <img width="100em"  src="/BANNER_PIXEL_ART.gif" />
   </div>
