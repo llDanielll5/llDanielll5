@@ -3,8 +3,10 @@
 ## Sou Daniel Mota!
 
 <div>
-    <img height="100vw" src="/BANNER_PIXEL_ART.gif" />
+    <img height="100em" width="100vw" src="/BANNER_PIXEL_ART.gif" />
   </div>
+
+  ###
 
   <div>
     <a href="https://github.com/llDanielll5" />
