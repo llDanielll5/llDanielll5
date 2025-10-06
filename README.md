@@ -2,7 +2,7 @@
 
 ## Sou Daniel Mota!
 
-### Amo programar e adoro poder aprender sempre novas tecnologias! Gosto de desafios e de criar soluções inovadoras para o nosso dia a dia.
+### Sou um empreendedor ativo e gosto de transformar ideias em realidade! Atualmente sou CEO da Microjobs e estou caminhando rumo em busca do equilíbrio da vida DEV com o empreendedorismo. Sou amante da música, da harmonia e dos códigos.
 
 <div>
     <img width="100em"  src="/BANNER_PIXEL_ART.gif" />
