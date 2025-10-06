@@ -6,7 +6,7 @@
 
 <div>
     <img width="100%"  src="/background.png" />
-    <img width="100%"  src="/microjobs.png" />
+    <a href="https://microjobs.com.br" target="_blank" rel="noopener noreferrer"><img width="100%" src="/microjobs.png" /></a>
   </div>
 
   ###
