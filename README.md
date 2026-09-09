@@ -2,7 +2,7 @@
 
 ## Sou Daniel Mota!
 
-### Sou um empreendedor ativo e gosto de transformar ideias em realidade! Atualmente sou CEO da Microjobs e estou caminhando rumo em busca do equilíbrio da vida DEV com o empreendedorismo. Sou amante da música, da harmonia e dos códigos.
+### Sou um empreendedor ativo e gosto de transformar ideias em realidade! Atualmente sou Fundador da SOFX. Sou amante da música, da harmonia e dos códigos.
 
 <div>
     <img width="100%"  src="/background.png" />
